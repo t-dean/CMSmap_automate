@@ -124,9 +124,9 @@ com_ccnewsletter
 com_cgtestimonial
 com_charts
 com_chronoconnectivity
-com_chronoconnectivity" /
+com_chronoconnectivity"/
 com_chronocontact
-com_chronocontact" /
+com_chronocontact"/
 com_cinema
 com_ckforms
 com_clanlist
@@ -341,7 +341,7 @@ com_jlord_rss
 com_jmarket
 com_jmovies
 com_jmsfileseller
-com_jnews HTTP/
+com_jnews-HTTP/
 com_jnewspaper
 com_joaktree
 com_job
@@ -351,7 +351,7 @@ com_jobprofile
 com_jokes
 com_joltcard
 com_jombib
-com_jombib --
+com_jombib--
 com_jomestate
 com_joobb
 com_jooget
@@ -574,7 +574,7 @@ com_propertylab
 com_puarcade
 com_publication
 com_qcontacts
-com_qcontacts" /
+com_qcontacts"/
 com_qcontacts?=catid=0
 com_qpersonel
 com_question
@@ -631,13 +631,13 @@ com_sectionex
 com_sections
 com_seek
 com_sef
-com_sef" /
+com_sef"/
 com_seminar
 com_serie
 com_sermon
 com_sermonspeaker
 com_seyret
-com_seyret" /
+com_seyret"/
 com_sg
 com_sgicatalog
 com_shop
